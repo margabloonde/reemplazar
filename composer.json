@@ -1,0 +1,13 @@
+{
+    "name":"marga/reemplazar",
+    "description":"Paquete para buscar y reemplazar etiquetas de idiomas",
+    "type":"laravel",
+    "authors": [
+        {
+            "name":"margabloonde",
+            "email":"margabloonde@gmail.com"
+        }
+    ],
+    "minimum-stability":"dev",
+    "require":{}
+}
